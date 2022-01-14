@@ -1,0 +1,14 @@
+C:\imersao_logica\Matriz02\Matriz02\bin\Debug\netcoreapp3.1\Matriz02.exe
+C:\imersao_logica\Matriz02\Matriz02\bin\Debug\netcoreapp3.1\Matriz02.deps.json
+C:\imersao_logica\Matriz02\Matriz02\bin\Debug\netcoreapp3.1\Matriz02.runtimeconfig.json
+C:\imersao_logica\Matriz02\Matriz02\bin\Debug\netcoreapp3.1\Matriz02.runtimeconfig.dev.json
+C:\imersao_logica\Matriz02\Matriz02\bin\Debug\netcoreapp3.1\Matriz02.dll
+C:\imersao_logica\Matriz02\Matriz02\bin\Debug\netcoreapp3.1\Matriz02.pdb
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.csproj.AssemblyReference.cache
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.GeneratedMSBuildEditorConfig.editorconfig
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.AssemblyInfoInputs.cache
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.AssemblyInfo.cs
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.csproj.CoreCompileInputs.cache
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.dll
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.pdb
+C:\imersao_logica\Matriz02\Matriz02\obj\Debug\netcoreapp3.1\Matriz02.genruntimeconfig.cache
